@@ -7,6 +7,6 @@ Tech Stack:
  Database - MySQL,
 
  Others:
- Google Maps API,
- Twilio,
+ OpenStreetMap API
+ 
  
