@@ -133,6 +133,13 @@ section:nth-child(even){
     line-height: 1.8;
     text-shadow: var(--text-shadow);
 }
+.home .content h1{
+    font-size: 7.5rem;
+    /* font-weight: 700; */
+    color: var(--black);
+    line-height: 1.8;
+    text-shadow: var(--text-shadow);
+}
 .home .content p{
     font-size:1.7rem;
     color: var(--light-color);
@@ -226,6 +233,13 @@ section:nth-child(even){
     font-size: 4rem;
     line-height: 1.8;
 }
+
+.about .row .content h1{
+    color: var(--black);
+    text-shadow: var(--text-shadow);
+    font-size: 6rem;
+    line-height: 1.8;
+}
 .about .row .content p{
     color: var(--light-color);
     padding: 1rem 0;
@@ -308,8 +322,33 @@ section:nth-child(even){
     border-radius: 5px;
 }
 
+.services
+{
+    margin-bottom: 40px;
+}
+
 .services h1
 {
     font-size:7.5rem;
     margin:70px;
 }
+.booking-confirmation
+{
+    margin-top:60px;
+    text-align: center;
+    font-size: 3.5rem;
+}
+
+footer
+{
+    font-size: 2rem;
+    text-align: center;
+    padding:30px;
+    border-top:3px solid black;
+    padding-top:50px;
+    padding-bottom:50psx;
+    width:70%;
+    margin:auto;
+
+}
+
